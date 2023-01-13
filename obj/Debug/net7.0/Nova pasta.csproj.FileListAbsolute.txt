@@ -1,0 +1,15 @@
+C:\Users\Ranathan\Desktop\Nova pasta\bin\Debug\net7.0\Nova pasta.exe
+C:\Users\Ranathan\Desktop\Nova pasta\bin\Debug\net7.0\Nova pasta.deps.json
+C:\Users\Ranathan\Desktop\Nova pasta\bin\Debug\net7.0\Nova pasta.runtimeconfig.json
+C:\Users\Ranathan\Desktop\Nova pasta\bin\Debug\net7.0\Nova pasta.dll
+C:\Users\Ranathan\Desktop\Nova pasta\bin\Debug\net7.0\Nova pasta.pdb
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\Nova pasta.AssemblyInfo.cs
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\Nova pasta.dll
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\refint\Nova pasta.dll
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\Nova pasta.pdb
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\Nova pasta.genruntimeconfig.cache
+C:\Users\Ranathan\Desktop\Nova pasta\obj\Debug\net7.0\ref\Nova pasta.dll
